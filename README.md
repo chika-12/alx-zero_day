@@ -1,1 +1,1 @@
-my second readme
+This project is for alx studies
